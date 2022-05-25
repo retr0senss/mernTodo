@@ -1,9 +1,15 @@
-# mernTodo
+# Mern Stack TODO APP
 Mern Stack Todo App with edit and delete functionalities
+
+![Screenshot_4](https://user-images.githubusercontent.com/92813347/170338315-b5cc1e8a-5090-4170-b7a5-03fdf9245dce.png)
+
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `node server.js` or `npm run dev`
+Runs the server on [http://localhost:8000/api/todo](http://localhost:8000/api/todo) to view it in your browser
 
 ### `npm start`
 
